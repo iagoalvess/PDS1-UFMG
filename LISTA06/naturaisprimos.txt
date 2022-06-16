@@ -1,0 +1,10 @@
+3 eh primo
+4 nao eh primo
+5 eh primo
+11 eh primo
+16 nao eh primo
+17 eh primo
+21 nao eh primo
+37 eh primo
+100 nao eh primo
+101 eh primo

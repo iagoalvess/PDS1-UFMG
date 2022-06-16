@@ -1,0 +1,4 @@
+4 nao eh primo
+16 nao eh primo
+21 nao eh primo
+100 nao eh primo
