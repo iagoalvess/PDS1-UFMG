@@ -1,6 +1,6 @@
 
 # PDS1-UFMG
-Progamming and Software Development Activities 1
+Programação e Desenvolvimento de Software 1
 
 
 
